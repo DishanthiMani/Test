@@ -11,7 +11,7 @@ namespace LibraryMS.BLL
 {
     public class UserBLL
     {
-        //USER VALIDATION PART
+        //USER VALIDATION hi
         private bool UserValidation(User user)
         {
             bool userValid;
